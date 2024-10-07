@@ -2,8 +2,8 @@
 Objective
 The primary goal of this project is to analyze the pizza sales data to gain insights into customer preferences, sales performance, and order trends. This analysis will help improve decision-making related to inventory management, marketing strategies, and customer engagement. By answering key questions about total orders, revenue, pizza popularity, and order distribution, we aim to optimize the business's operations and boost profitability.
 
-**#Key Questions**
-**#Basic Analysis**
+**Key Questions**
+**Basic Analysis**
 
 Total Orders
 How many total orders have been placed?
