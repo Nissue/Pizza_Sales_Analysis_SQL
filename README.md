@@ -6,6 +6,7 @@ The primary goal of this project is to analyze the pizza sales data to gain insi
 # Basic Analysis
 
 Total Orders
+
 How many total orders have been placed?
 
 Total Revenue
