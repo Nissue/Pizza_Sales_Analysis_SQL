@@ -5,28 +5,35 @@ The primary goal of this project is to analyze the pizza sales data to gain insi
 # Key Questions
 # Basic Analysis
 
-Total Orders
+1.Total Orders
 
 How many total orders have been placed?
 
-Total Revenue
+2.Total Revenue
+
 What is the total revenue generated from pizza sales?
 
-Highest Priced Pizza
+3.Highest Priced Pizza
+
 Which pizza is the most expensive?
 
-Most Common Pizza Size
+4.Most Common Pizza Size
+
 What is the most frequently ordered pizza size?
 
-Top 5 Pizza Types
+5.Top 5 Pizza Types
+
 What are the top 5 most ordered pizza types, along with their respective quantities?
 
 # Intermediate Analysis
-Pizza Category-wise Quantity
+1.Pizza Category-wise Quantity
+
 What is the total quantity of each pizza category ordered?
 
-Orders by Hour of the Day
+2.Orders by Hour of the Day
+
 How is the distribution of pizza orders across different hours of the day?
 
-Category-wise Pizza Distribution
+3.Category-wise Pizza Distribution
+
 What is the distribution of pizza orders based on different categories (e.g., vegetarian, non-vegetarian)?
