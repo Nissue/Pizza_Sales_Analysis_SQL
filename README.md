@@ -20,7 +20,7 @@ What is the most frequently ordered pizza size?
 Top 5 Pizza Types
 What are the top 5 most ordered pizza types, along with their respective quantities?
 
-#Intermediate Analysis
+# Intermediate Analysis
 Pizza Category-wise Quantity
 What is the total quantity of each pizza category ordered?
 
